@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi 👋  
 
-<!--
-**borrusik/borrusik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Borys**, a CS student and junior developer from Slovakia.  
 
-Here are some ideas to get you started:
+I enjoy learning by building — from small scripts to full semester projects.  
+Currently focused on programming fundamentals, OOP, and real-world practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do
+- Build Java projects for university
+- Experiment with games & logic
+- Learn web & backend technologies
+- Work on education-related platforms
+
+### 🧰 Tools & Technologies
+- Java / BlueJ
+- Python
+- HTML / CSS
+- Git, GitHub
+- UML diagrams
+
+### 📈 Learning now
+- Clean code & OOP principles
+- Databases (SQL basics)
+- Backend fundamentals
+- Software design
+
+### 🏀 Outside of code
+- Basketball
+- Gym
+- Tech & startups
+
+Always learning. Always improving.
