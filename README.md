@@ -1,31 +1,31 @@
 <div align="center">
 
-# Hi there, I'm Borys! 👋
+# Привіт, я Борис! 👋
 
-### CS Student & Junior Developer from Slovakia 🇸🇰
+### Студент CS та Junior Developer зі Словаччини 🇸🇰
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Java+projects;Experimenting+with+Game+Dev;Learning+Web+%26+Backend;Always+learning+and+improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Створюю+Java+проекти;Вивчаю+Backend+технології;Граю+в+баскетбол+%F0%9F%8F%80;Постійно+вчуся+та+вдосконалююсь)](https://git.io/typing-svg)
 
-I enjoy learning by building — from small scripts to full semester projects.
-Currently focused on programming fundamentals, **OOP**, and real-world practice.
+Мені подобається навчатися через створення реальних проектів — від невеликих скриптів до повноцінних курсових робіт. Зараз я зосереджений на основах програмування, **ООП** та практичному застосуванні знань.
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## 🚀 Чим я займаюся
 
-- 🎓 **University Projects:** Building Java applications and mastering CS fundamentals.
-- 🎮 **Game Dev:** Experimenting with game logic and algorithms.
-- 🌐 **Web Technologies:** Learning HTML, CSS, and connecting them to backends.
-- 📚 **EdTech:** Working on education-related platforms.
+- 🎓 **Університетські проекти:** Розробка Java-додатків та вивчення фундаментальних основ Computer Science.
+- 🎮 **Game Dev:** Експерименти з ігровою логікою та алгоритмами на C# та C++.
+- 🌐 **Веб-технології:** Вивчення HTML, CSS та принципів роботи бекенду.
+- 📚 **EdTech:** Робота над освітніми платформами.
 
-## 🧰 Tools & Technologies
+## 🧰 Інструменти та технології
 
 <div align="left">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,36 +33,36 @@ Currently focused on programming fundamentals, **OOP**, and real-world practice.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![BlueJ](https://img.shields.io/badge/IDE-BlueJ-181817?style=for-the-badge)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
 
-## 📈 Learning Now
+## 📈 Зараз вивчаю
 
-I am currently deepening my knowledge in:
-* 🧹 **Clean Code** & OOP Principles
-* 🗄️ **Databases:** SQL Basics & Design
-* ⚙️ **Backend:** Server-side fundamentals
-* 🏗️ **Software Architecture:** UML & Design Patterns
+Зараз я заглиблююся в такі теми:
+* 🧹 **Clean Code** та принципи ООП
+* 🗄️ **Бази даних:** Основи SQL та проектування
+* ⚙️ **Backend:** Серверна логіка та архітектура
+* 🏗️ **Software Architecture:** UML та патерни проектування
 
-## 🏀 Outside of Code
+## 🏀 Поза кодом
 
-When I'm not coding, you can find me:
-* 🏀 Playing **Basketball**
-* 💪 Hitting the **Gym**
-* 🚀 Following **Tech & Startups**
+Коли я не програмую, мене можна знайти:
+* 🏀 На баскетбольному майданчику
+* 💪 У тренажерному залі
+* 🚀 Слідкую за новинами **Tech & Startups**
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 Моя статистика GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=borrusik&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="borrusik's stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borrusik&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=borrusik&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Статистика Бориса" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borrusik&layout=compact&theme=radical&hide_border=true" alt="Мови програмування" height="180"/>
 
 <br>
 
-*"Always learning. Always improving."*
+*"Постійно вчуся. Постійно вдосконалююсь."*
 
 </div>
