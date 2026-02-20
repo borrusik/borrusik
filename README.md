@@ -1,25 +1,25 @@
 <div align="center">
 
-# Привіт, я Борис! 👋
+# Hi, I’m Borys! 👋
 
-### Студент CS та Junior Developer зі Словаччини 🇸🇰
+### CS Student and Junior Developer from Slovakia 🇸🇰
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Створюю+Java+проекти;Вивчаю+Backend+технології;Граю+в+баскетбол+%F0%9F%8F%80;Постійно+вчуся+та+вдосконалююсь)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Java+projects;Learning+Backend+technologies;Playing+basketball+%F0%9F%8F%80;Continuously+learning+and+improving)](https://git.io/typing-svg)
 
-Мені подобається навчатися через створення реальних проектів — від невеликих скриптів до повноцінних курсових робіт. Зараз я зосереджений на основах програмування, **ООП** та практичному застосуванні знань.
+I enjoy learning by building real projects — from small scripts to full-scale coursework. Currently, I am focused on programming fundamentals, **OOP**, and the practical application of knowledge.
 
 </div>
 
 ---
 
-## 🚀 Чим я займаюся
+## 🚀 What I Do
 
-- 🎓 **Університетські проекти:** Розробка Java-додатків та вивчення фундаментальних основ Computer Science.
-- 🎮 **Game Dev:** Експерименти з ігровою логікою та алгоритмами на C# та C++.
-- 🌐 **Веб-технології:** Вивчення HTML, CSS та принципів роботи бекенду.
-- 📚 **EdTech:** Робота над освітніми платформами.
+- 🎓 **University Projects:** Developing Java applications and studying core Computer Science fundamentals.
+- 🎮 **Game Dev:** Experimenting with game logic and algorithms in C# and C++.
+- 🌐 **Web Technologies:** Learning HTML, CSS, and backend principles.
+- 📚 **EdTech:** Working on educational platforms.
 
-## 🧰 Інструменти та технології
+## 🧰 Tools & Technologies
 
 <div align="left">
 
@@ -37,32 +37,34 @@
 
 </div>
 
-## 📈 Зараз вивчаю
+## 📈 Currently Learning
 
-Зараз я заглиблююся в такі теми:
-* 🧹 **Clean Code** та принципи ООП
-* 🗄️ **Бази даних:** Основи SQL та проектування
-* ⚙️ **Backend:** Серверна логіка та архітектура
-* 🏗️ **Software Architecture:** UML та патерни проектування
+Right now, I am diving deeper into:
 
-## 🏀 Поза кодом
+* 🧹 **Clean Code** and OOP principles  
+* 🗄️ **Databases:** SQL fundamentals and design  
+* ⚙️ **Backend:** Server-side logic and architecture  
+* 🏗️ **Software Architecture:** UML and design patterns  
 
-Коли я не програмую, мене можна знайти:
-* 🏀 На баскетбольному майданчику
-* 💪 У тренажерному залі
-* 🚀 Слідкую за новинами **Tech & Startups**
+## 🏀 Beyond Coding
+
+When I’m not programming, you can find me:
+
+* 🏀 On the basketball court  
+* 💪 At the gym  
+* 🚀 Following **Tech & Startup** news  
 
 ---
 
 <div align="center">
 
-## 📊 Моя статистика GitHub
+## 📊 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=borrusik&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Статистика Бориса" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borrusik&layout=compact&theme=radical&hide_border=true" alt="Мови програмування" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=borrusik&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Borys's stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borrusik&layout=compact&theme=radical&hide_border=true" alt="Programming languages" height="180"/>
 
 <br>
 
-*"Постійно вчуся. Постійно вдосконалююсь."*
+*"Always learning. Always improving."*
 
 </div>
