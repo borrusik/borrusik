@@ -54,17 +54,4 @@ When I’m not programming, you can find me:
 * 💪 At the gym  
 * 🚀 Following **Tech & Startup** news  
 
----
-
-<div align="center">
-
-## 📊 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=borrusik&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Borys's stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borrusik&layout=compact&theme=radical&hide_border=true" alt="Programming languages" height="180"/>
-
-<br>
-
-*"Always learning. Always improving."*
-
 </div>
